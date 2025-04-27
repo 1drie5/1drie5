@@ -1,5 +1,4 @@
-### Hi Github People 👋
-## Currently learning to use Github 
+# `retarded`
 
 <!--
 **1drie5/1drie5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
